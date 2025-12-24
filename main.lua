@@ -190,7 +190,7 @@ function nkQuestBase.query.getZoneByQuest (questID)
 		end
 	end
 
-	return "UKNOWN_ZONE"
+	return "UNKNOWN_ZONE"
 
 end
 
