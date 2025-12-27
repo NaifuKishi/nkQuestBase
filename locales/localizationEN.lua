@@ -1,6 +1,6 @@
 local addonInfo, privateVars = ...
 
-if ( EnKai.tools.lang.getLanguage() == "English"  ) then
+if ( LibEKL.tools.lang.getLanguage() == "English"  ) then
 
 	nkItemBase.texts = {	
 				recipe		= 'Recipe: %s',
