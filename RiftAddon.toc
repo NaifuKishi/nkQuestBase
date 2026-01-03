@@ -30,5 +30,5 @@ RunOnStartup = {
 }
 
 Dependencies = {
-	LibEKL = {"required", "before"},
+	EnKai = {"required", "before"},
 }
